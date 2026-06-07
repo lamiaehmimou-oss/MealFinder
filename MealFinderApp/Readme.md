@@ -16,7 +16,7 @@ Application mobile développée avec React Native et Expo.
 - TheMealDB API
 
 ## Démonstration vidéo
-https://youtube.com/shorts/b5...
+https://youtube.com/shorts/gtOFTtNEsb0?si=VYTjpWVu7Hl_CNsF
 
 ## Réalisée par
 Lamiae Hmimou
